@@ -7,7 +7,7 @@ export default function AboutUs(){
         <Container
             content = {
                 <>
-                    <div className="w-6/12 py-20">
+                    <div className="w-6/12 py-32">
                         <div className="w-3/4">
                             <p className="text-blue-500 font-semibold">Whats Netbooks?</p>
                             <Title
