@@ -11,6 +11,14 @@ module.exports = {
     extend: {
       fontFamily:{
         'sans': ['Inter', 'sans-serif'],
+      },
+      fontWeight: {
+        'extra-bold' : '900',
+      },
+      colors: {
+        blue: {
+          "900" : "#0A093D"
+        }
       }
     },
   },
