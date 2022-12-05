@@ -49,7 +49,7 @@ export default function OurAchievment(){
                             <Button
                                 content="Discover Me"
                                 variant="longways"
-                                color="mt-8 bg-blue-500 text-white"
+                                color="mt-8 bg-blue-500 text-white shadow shadow-blue w-1/2"
                             />
                         </div>
                     </div>

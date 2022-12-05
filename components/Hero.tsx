@@ -10,7 +10,7 @@ export default function Hero(){
                 <div className="w-6/12">
                   <Button
                     content="Netbook Community"
-                    color= "text-blue-500 font-semibold bg-blue-100 rounded-md"
+                    color= "text-blue-500 font-semibold bg-blue-100 rounded-md w-1/3"
                     variant="longways"
                   />
                   <Title
