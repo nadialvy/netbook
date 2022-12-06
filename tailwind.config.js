@@ -31,6 +31,9 @@ module.exports = {
           'backgroundPosition': '10px center',
           'backgroundSize': '18px 18px',
         },
+        '.community-gradient' : {
+          'background': `linear-gradient(0deg, rgba(241, 246, 253, 0) 1.63%, #F1F6FD 20.5%, #F1F6FD 58.57%, #FFFFFF 100%)`
+        }
       }
       addUtilities(utilities)
     })
