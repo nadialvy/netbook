@@ -4,6 +4,7 @@ import AboutUs from "../components/AboutUs";
 import OurAchievment from "../components/OurAchievment";
 import OurCommunity from "../components/OurCommunity";
 import OurTeam from "../components/OurTeam";
+import CTA from "../components/CTA";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <OurAchievment />
       <OurCommunity />
       <OurTeam />
+      <CTA />
     </>
   );
 }
