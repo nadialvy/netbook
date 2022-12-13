@@ -7,6 +7,7 @@ import OurTeam from "../components/OurTeam";
 import CTA from "../components/CTA";
 import Blog from "../components/Blog";
 import Footer from "../components/Footer";
+import FooterSection2 from "../components/FooterSection2";
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
       <CTA />
       <Blog />
       <Footer />
+      <FooterSection2 />
     </>
   );
 }
