@@ -19,6 +19,10 @@ module.exports = {
         blue: {
           "900" : "#0A093D"
         },
+        darkBlue: {
+          '800' : "#2B2B39",
+          '900' : "#2B2B39"
+        },
         tosca: {
           "300" : "#E5F0FD"
         }
